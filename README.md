@@ -18,6 +18,3 @@ I'm a Computer Engineering student with a deep passion for software development.
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elifep&layout=compact&theme=radical)
-
-## 🚀 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/elif-ep-8a9bb021a/)
