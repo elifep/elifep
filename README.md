@@ -1,11 +1,27 @@
 # Hi, I'm Elif! 👋  
-A Computer Engineering student passionate about learning and creating impactful software.
+I'm a Computer Engineering student with a deep passion for software development. I thrive on learning new technologies, solving complex problems, and creating impactful solutions that make a difference.
 
 ## 💻 Technologies I Use
-- **JavaScript & React**
-- **HTML, CSS & TailwindCSS**
+
+### Programming Languages
+- **JavaScript**
+  - React
+  - Node.js
+  - Express.js
+- **TypeScript**
 - **Java**
 - **Go**
+
+### Styling & Design
+- **HTML**
+- **CSS**
+  - TailwindCSS
+
+### Tools
+- Visual Studio Code
+- IntelliJ IDEA
+- Git
+- Postman
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elifep&layout=compact&theme=radical)
