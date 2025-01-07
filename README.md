@@ -11,11 +11,7 @@ I'm a Computer Engineering student with a deep passion for software development.
 - **TypeScript**
 - **Java**
 - **Go**
-
-### Styling & Design
-- **HTML**
-- **CSS**
-  - TailwindCSS
+- **HTML, CSS (TailwindCSS)**
 
 ### Tools
 - Visual Studio Code
