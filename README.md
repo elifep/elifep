@@ -15,6 +15,3 @@ I'm a Computer Engineering student with a deep passion for software development.
 - Visual Studio Code
 - IntelliJ IDEA
 - Postman
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elifep&layout=compact&theme=radical)
