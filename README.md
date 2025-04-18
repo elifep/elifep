@@ -14,4 +14,5 @@ I'm a Computer Engineering student with a deep passion for software development.
 - Postman
 - Docker
 - Trello
+- Figma
 - Github Desktop
