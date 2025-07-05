@@ -8,5 +8,5 @@ I am a Computer Engineering student with a deep passion for software development
 - **HTML / CSS / TailwindCSS**
 
 ### 🔧 Tools
-Visual Studio / Visual Studio Code / IntelliJ IDEA / Dev C++ 
-Postman / Docker / Trello / Figma / Github Desktop
+-Visual Studio / Visual Studio Code / IntelliJ IDEA / Dev C++ 
+-Postman / Docker / Trello / Figma / Github Desktop
