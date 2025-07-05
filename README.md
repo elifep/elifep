@@ -1,18 +1,12 @@
 # Hi, I'm Elif! 👋  
-I'm a Computer Engineering student with a deep passion for software development. I thrive on learning new technologies, solving complex problems, and creating impactful solutions that make a difference.
+I am a Computer Engineering student with a deep passion for software development. I am eager to learn new technologies, solve complex problems and create effective solutions that make a difference.
 
 ### 💻 Programming Languages
 - **JavaScript / React / React Native**
 - **Node.js / Express.js / TypeScript**
--  **Go**
-- **Java**
+-  **Go** / **Java** / **C** / **C#**
 - **HTML / CSS / TailwindCSS**
 
 ### 🔧 Tools
-- Visual Studio Code
-- IntelliJ IDEA
-- Postman
-- Docker
-- Trello
-- Figma
-- Github Desktop
+Visual Studio / Visual Studio Code / IntelliJ IDEA / Dev C++ 
+Postman / Docker / Trello / Figma / Github Desktop
